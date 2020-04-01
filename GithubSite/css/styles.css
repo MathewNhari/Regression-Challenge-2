@@ -1,0 +1,149 @@
+/*background
+#background{
+    background-image: url();
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+#third_section{
+    color: black;
+    text-align: center;
+}
+.third_section_div{
+    color: brown;
+}*/
+body{
+}
+/*Navigation Section*/
+#CV{
+    margin-right: 0.3125rem;
+}
+/*Section 1*/
+
+.secSect{
+    background-image: url(https://cdn.computercareers.org/wp-content/uploads/Programmer-Seriously.jpeg);
+    background-color: brown;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    margin-top: 0;
+    padding-right: 2rem;
+    margin: 0;
+}
+/*Section 2*/
+#section-3{
+    position: relative;
+    margin-left: 0em;
+}
+#sect_back{
+    padding-bottom: 2rem;
+}
+
+h1{
+    font-size: xx-large;
+    color: blanchedalmond;
+    size: 5rem;
+    font-weight: bold;
+    padding-top: 10rem;
+}
+.sub{
+    color: white;
+}
+#Mathew{
+    width: 19.5rem;
+    height: 26.875rem;
+    padding-top: 100px;
+    margin-left: 0;
+    left: 3rem;
+
+}
+#aboutMe{
+    padding-top: 5rem;
+    text-align: center;
+}
+#paragraph{
+    font-family: 'Noto Serif', serif;
+    color: whitesmoke;
+    position: absolute;
+    padding-top: 10rem;
+    padding-right: 1rem;
+}
+.cover{
+    width: 20%;
+}
+#cont_aboutMe{
+    background-color: #116979;
+    padding-left: 20px;
+    margin-left: 0em;
+}
+#describe_div{
+    text-align: center;
+    position: relative;
+}
+/*Skills*/
+#skills{
+    background-color: #116979;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+.right{
+    padding-left: 2rem;
+}
+#secPic{
+    margin: 0em;
+}
+li{
+    color: whitesmoke;
+}
+/*section-5*/
+.section-5{
+    background-color: #116979;
+    text-align: center;
+
+}
+#sect-5-head{
+    color: whitesmoke;
+    background-color: #116979;
+    padding-bottom: 2rem;
+    padding-top: 4rem;
+    margin: 0;
+
+}
+#head-5-div{
+    text-align: center;
+    margin: 0em;
+}
+#pic{
+    background-color: #116979;
+    margin-top: 0em;
+    position: relative;
+    padding-bottom: 5rem;
+}
+.caption_lab{
+    color: whitesmoke;
+}
+.cat{
+    text-align: center;
+}
+.proj{
+    position: relative;
+    top: 3rem;
+    left: 6rem;
+    margin-top: 0;
+
+}
+/*section-6*/
+#section-6{
+    margin: 0;
+}
+.bottom-foot{
+    margin: 0;
+    color: whitesmoke;
+}
+.number{
+    color: whitesmoke;
+}
